@@ -17,4 +17,4 @@ Added class "benefit-lead-h3'
 No installation steps
 
 ```md
-![Horiseon project by Mattson,Aimee][alt text](assets/images/screenshot.png)
+![Horiseon project by Mattson,Aimee][alt text](HW-1-Horiseon-mattsonaimee/images/screencapture-file-C-Users-amatt-code-Homework-project-Horsieon-mattson-HW-1-Horiseon-mattsonaimee-index-html-2020-11-07-17_57_05.png)
